@@ -1,10 +1,10 @@
-<a alt="Whats Link+: WA Easy Direct Message and QR Code">
-<img src="https://github.com/Machina-Labs-Agency/Whats-Link-Plus/blob/f16c16cc4f949704eea20c805ebe7ec87fa8663c/Assets/Main-banner-PT-BR.png">
+<a alt="YOUR AWESOME REPO BRAND NAME">
+<img src="LINK DO BANNER DO TEEU REPO ">
 </a>
 
-<h1 align="center">Whats Link+: WA Easy Direct Message and QR Code</h1>
+<h1 align="center">YOUR AWESOME REPO BRAND NAME</h1>
 
-<h6 align="center">Whats Link+ is a lightweight and user-friendly Chrome extension that makes it easy to send WhatsApp messages and generate shareable links directly from your browser.</h6>
+<h6 align="center">KILLER DESCRIPTON OF YOUR PROJECT.</h6>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">  <img src="https://img.shields.io/badge/Made%20with-JavaScript-blue">  <img src="https://img.shields.io/badge/Platform-Chromium%20Extension-green">
@@ -14,20 +14,7 @@
 
 ## Features
 
-* **Context Menu Integration:** Right-click on any selected phone number on a webpage to instantly open a chat.
-* **Dynamic All-in-One Popup:**
-    * Starts in a **clean, compact view** for quickly sending messages.
-    * Click **"Link & QR Code Generator"** to smoothly expand the UI, revealing powerful tools for creating shareable links and QR codes without cluttering the main view.
-    * Choose to open chats with the **Desktop/Mobile App** or with **WhatsApp Web**.
-    * Save your preferred country code and "Open with" choice as defaults.
-* **Link & QR Code Generator:**
-    * Create shareable links for `api.whatsapp.com` or `web.whatsapp.com`.
-    * Add optional pre-filled text to your links.
-    * Instantly generate a scannable QR code.
-    * **Download** the QR code as a PNG file or **Share** it using your device's native sharing menu.
-* **Smart Country Code Detection:** Automatically recognizes phone numbers from the US and Brazil.
-* **Recent Numbers:** Automatically saves your last 5 used numbers for quick access in a scrollable list.
-* **Multi-Language Support:** Automatically displays in English or Brazilian Portuguese (`pt-BR`) based on your browser's language setting.
+* **THE BEST TOOL OF THE ENTIRE WORLD** YOU CAN BET YOUR ASS ON IT!
 
 
 ---
@@ -46,17 +33,10 @@
 
 ### Sending a Message
 
-1.  **Select a number** on any webpage or click the extension icon to type one manually.
-2.  The popup will automatically detect the country code if it's a US or Brazilian number. Otherwise, you can select it from the dropdown.
-3.  Choose whether to open the chat in the **App** or on the **Web**.
-4.  Click **"Send Message"**.
-
-### Saving Your Preferences
-
-1.  In the popup, select your desired default country code from the dropdown.
-2.  Choose your preferred "Open with" method (App or Web).
-3.  Click the **"Save Defaults"** button.
-4.  All future sessions and context-menu actions will now use these settings.
+1.  CLONE MY AWESOME REPO
+2.  USE IT LIKE HELL
+3.  PUNCH THE STAR BUTTON
+4.  SHARE IT WITH THE WORLD
 
 ---
 
@@ -68,5 +48,4 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This is an independent project and is not officially affiliated with WhatsApp or Meta. Please read the full [Legal Disclaimer](DISCLAIMER.md).
-WhatsApp™ is a trademark of WhatsApp Inc., registered in the U.S. and other countries. This extension has no relationship to WhatsApp™ or WhatsApp Inc.
+This is an independent project. Please read the full [Legal Disclaimer](DISCLAIMER.md).
